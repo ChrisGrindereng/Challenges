@@ -1,0 +1,3 @@
+C:\Users\cog04\TIY\Challenges\Challenge6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\cog04\TIY\Challenges\Challenge6\obj\Debug\ConsoleApplication6.exe
+C:\Users\cog04\TIY\Challenges\Challenge6\obj\Debug\ConsoleApplication6.pdb
