@@ -1,0 +1,6 @@
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\obj\Debug\ConsoleApplication6.exe
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\obj\Debug\ConsoleApplication6.pdb
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\bin\Debug\ConsoleApplication6.exe
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\bin\Debug\ConsoleApplication6.pdb
+C:\Users\cog04\TIY\NewChallenges\Challenges\Challenge5\obj\Debug\Challenge5.csprojResolveAssemblyReference.cache
