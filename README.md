@@ -1,6 +1,7 @@
 # Challenges
 
 - Several challenge exercises to practice coding skills and C# features.
+
 ###Full list of excercises and functions:
 
 - Challenge 1 "Function for calculating vector length using 2Demensional Arrays"
